@@ -1,0 +1,117 @@
+* {
+    color: #073762;
+    font-style: normal;
+}
+
+.hr {
+    border-bottom: 2px solid #023562;
+
+}
+
+.vr {
+    border-left: 2px solid #023562;
+
+}
+
+.bg-container {
+    background-color: #e28484;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.follow-us-icon-container {
+    border-style: solid;
+    text-align: center;
+    background-color: transparent;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 15px;
+
+    margin-bottom: 15px;
+    padding-top: 22px;
+    padding-bottom: 0px;
+    padding-right: 16px;
+    padding-left: 12px;
+}
+
+.follow-us-icon-container2 {
+    border-style: solid;
+    text-align: center;
+    background-color: grey;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 22px;
+    padding-bottom: 0px;
+    padding-right: 16px;
+    padding-left: 12px;
+}
+
+
+.header {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+.header2 {
+    font-weight: bolder;
+    font-size: 9px;
+
+}
+
+.header3 {
+    font-weight: bolder;
+    font-size: 11px;
+
+}
+
+.cs2 {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+
+.header-head {
+    font-weight: bold;
+    font-size: 26px;
+
+    margin-top: 15px;
+    padding-bottom: 4px;
+}
+
+.para-des {
+    font-weight: bold;
+    font-size: 12px;
+
+}
+
+.para-des2 {
+    font-size: 8px;
+    font-weight: 300;
+}
+
+.para-des3 {
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.cs3 {
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.unorder-list-stylr {
+    list-style-type: none;
+}
+
+.circling {
+    font-size: 16px;
+    font-weight: 900;
+}
